@@ -1,0 +1,1 @@
+Learn the PERN stack by building a Yelp clone. The PERN stack includes PostgreSQL, Express, React, and Node. You will learn all the basics including installation, creating databases/tables, making queries, adding entries, establishing relationship between tables, SQL joins, and more. 
